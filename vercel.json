@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://music.api.tianli0.top/:match*"
+      "destination": "https://api.x-wan.top/:match*"
     }
   ]
 }
