@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api.x-wan.top/:match*"
+      "destination": "https://xmusic-api.vercel.app/:match*"
     }
   ]
 }
